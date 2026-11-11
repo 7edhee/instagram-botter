@@ -1,18 +1,24 @@
+# instagram-botter
 
-<div align="center">
-<h1>Instagram Botter</h1>
-<h3><a href="https://instagram.com">Instagram</a> followers, likes and views botter.</h3>
-<br/>
-<h4>By <a href="https://github.com/natrixdev">natrixdev</a> for github.</h4>
-<br/>
-<h1>Setup</h1>
-</div>
-<h2>1 - You need to install python</2>
-<h4>By <a href="https://python.org/downloads">clicking here</a></h4>
-<br/>
-<h2>2 - Install packages</h2>
-<h4>By running <a href="https://github.com/natrixdev/instagram-botter/edit/main/reqs.txt">reqs.txt</a> file</h4>
-<br/>
-<h2>3 - Run the botter</h2>
-<h4>Run this <a href="https://github.com/natrixdev/instagram-botter/edit/main/main.py"> file</a> to access the botter</h4>
-<br/>
+> **Archived experiment — not maintained or supported.**
+
+This repository contains an old experiment that was described as an Instagram engagement automation tool. It is not an official Instagram product, is not a working application, and should not be used to generate artificial likes, views, followers, or other engagement.
+
+## Current status
+
+The project is preserved for historical reference only:
+
+- `main.py` is not valid, runnable Python in its current form.
+- `reqs.txt` contains legacy shell commands and is not a valid Python requirements file.
+- There is no supported installation or execution workflow.
+- No credentials, account cookies, tokens, or personal data should be added to this repository.
+
+The repository is intentionally documented rather than repaired into an automation tool. Any future work should comply with Instagram's Terms of Use, applicable law, and responsible security practices.
+
+## Safe handling
+
+If you are studying the repository, inspect it offline and do not run unknown automation against real accounts or third-party services. Do not submit credentials or secrets through scripts copied from this project.
+
+## License
+
+No license is declared in this repository. Treat the existing files as all-rights-reserved unless the copyright holder provides separate permission.
